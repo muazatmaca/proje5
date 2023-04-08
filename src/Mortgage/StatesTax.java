@@ -16,6 +16,8 @@ public enum StatesTax {
         return tax;
     }
 
+
+
     /*
 
         StatesTax class i bir "enum class"tir ve bizim tax (vergi) lerimi belirleyecektir.

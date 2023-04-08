@@ -29,6 +29,7 @@ public class HousePrices extends Users{
 
     public int getPrice() {
         return price;
+
     }
 
     public void setPrice(int price) {
